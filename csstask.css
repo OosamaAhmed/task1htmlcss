@@ -1,0 +1,8 @@
+body{margin: 0;padding: 0;font-family: arial, tahoma}
+.main{  }
+.a{ background:black; color: white;border: 2px solid black;text-align: center;padding:5px 0;}
+.b{background:grey; color: white;text-align: center;padding:5px 0}
+.nav{background:#ddd;color#676767;text-alin:center}
+ul{list-style:none;padding: 0;margin: 0;text-align: center}
+ul li{display:inline-block;padding:12px;color: purple}
+.footer{background:black; color: white;text-align: center;padding:5px 0}
